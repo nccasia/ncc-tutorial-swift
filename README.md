@@ -1,6 +1,8 @@
 # ncc-tutorial-swift
 This repository contain there knowledges of Swift for there fresher. It introduce the structure common of a swift project, there components, there UI and there library always use on the project. it will be seprated each small project with each readme. Please read Readme for each example.
-We has 
+
+We has 7 examples.
+
 1: Structure of Project Swift (Swift 5)
 2: Swift Commun:
   - AppDelegate, SceneDelegate
